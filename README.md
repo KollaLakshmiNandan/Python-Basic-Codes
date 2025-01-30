@@ -14,4 +14,4 @@ Web Scraping – Extracting data from websites using BeautifulSoup and Scrapy
 Machine Learning & Data Science – NumPy, Pandas, and scikit-learn implementations
 Automation Scripts – Automating repetitive tasks
 Projects – Small applications like calculators, to-do lists, and more
-🔧 Installation & Usage
+
