@@ -1,7 +1,3 @@
-
-Memory updated
-Here's a README file for your GitHub repository:
-
 Python Code Collection 🐍
 This repository contains a variety of Python scripts covering different concepts, from beginner to advanced levels. These scripts serve as learning resources and practical implementations of Python programming.
 
